@@ -1,6 +1,6 @@
 # GNU - Linux
 
-Notes importantes : Cette VM à été créé sur UTM (seulement sur MacOS), il se peut que l'ouverture du fichier UTM avec un autre moteur de virutalisation ne fonctionne pas. Référez-vous à l'installation plus bas.
+Note importante : Cette VM à été créé sur UTM (seulement sur MacOS), il se peut que l'ouverture du fichier UTM avec un autre moteur de virutalisation ne fonctionne pas. Référez-vous à l'installation plus bas.
 
 ## Fichiers
 data : Dossier de tous les bash présent sur la VM.
